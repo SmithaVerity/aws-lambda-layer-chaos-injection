@@ -1,4 +1,4 @@
-service: FailureInjectionLayer
+service: FailInjLayer
 
 provider:
   name: aws
